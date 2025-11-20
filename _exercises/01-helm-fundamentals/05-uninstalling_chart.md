@@ -34,6 +34,10 @@ Now, take a moment to try these steps on your own before checking the detailed g
 6. **Confirm Deletion of Resources**:
    After deleting the PVC, check again with `kubectl get pvc` and `kubectl get pv` to ensure no resources remain.
 
+### output
+
+![Image01](assets/16.png)
+
 ## Conclusion
 
 Great job! By following the steps above, you’ve successfully learned how to uninstall a Helm chart and clean up its resources from your Kubernetes cluster. Remember, it’s important to check for lingering resources, particularly persistent volumes, to maintain a tidy environment. Keep practicing, and you’ll become proficient in managing Helm releases and your cluster in no time!
