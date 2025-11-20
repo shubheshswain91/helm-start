@@ -56,6 +56,10 @@ Remember, try to implement these steps yourself first! This is a fantastic way t
    ```
    Copy the provided URL to your browser, and you should see your WordPress site up and running! 🎉
 
+### output
+
+![Image01](assets/01.png)
+
 ## Conclusion
 
 Congratulations on successfully deploying your first application using Helm! This exercise has hopefully shown you how straightforward it is to manage applications with Helm charts. Keep exploring the various options Helm provides, and you'll find that your skills will increase significantly.
