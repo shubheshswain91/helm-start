@@ -39,7 +39,7 @@ Which Kind of Error Will You Experience?
 When installing a Helm chart that leverages an earlier image tag not available in the Bitnami Docker repositories, you should see an error similar to the one below:
 
 
-
+![alt text](image.png)
 
 
 
