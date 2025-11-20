@@ -58,7 +58,13 @@ Remember, try to implement these steps yourself first! This is a fantastic way t
 
 ### output
 
+![Image01](assets/bitnami-issue-fixed.png)
+
+![Image01](assets/bitnami-issue-fixed-2.png)
+
 ![Image01](assets/01.png)
+
+
 
 ## Conclusion
 
