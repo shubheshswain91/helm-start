@@ -85,10 +85,12 @@ mariadb:
 
 3. Once the file is created, add the following to the helm template, helm install, and helm upgrade commands we execute: --values <path to file>. For example:
 
+```
 helm template bitnami/wordpress becomes helm template bitnami/wordpress --values wp-repo-overrides.yaml
 
 helm install local-wp bitnami/wordpress becomes helm install local-wp bitnami/wordpress --values wp-repo-overrides.yaml
 
+```
 This will enable you to continue using the same chart versions from the lectures for the moment, and you should still be able to install the applications on your Kubernetes cluster.
 
 ⚠️ IMPORTANT: You will also need to set these values at later points in the course when we discuss chart dependencies and Helm plugins.
