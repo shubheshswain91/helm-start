@@ -30,6 +30,38 @@ Here's a concise roadmap to help you get through the exercise:
    - Ensure that you don't copy any extra characters, like the percentage sign.
 4. **Log In**: Return to the admin panel and enter your username and the decoded password to access your dashboard.
 
+### output
+
+![Image01](assets/02.png)
+
+![Image01](assets/03.png)
+
+![Image01](assets/04.png)
+
+![Image01](assets/05.png)
+
+![Image01](assets/06.png)
+
+![Image01](assets/07.png)
+
+![Image01](assets/08.png)
+
+![Image01](assets/09.png)
+
+![Image01](assets/10.png)
+
+![Image01](assets/11.png)
+
+![Image01](assets/12.png)
+
+![Image01](assets/13.png)
+
+![Image01](assets/14.png)
+
+![Image01](assets/15.png)
+
+
+
 ## Conclusion
 
 In this session, we explored how to access the WordPress admin panel and retrieve the default configurations set up within the Kubernetes cluster. This knowledge is essential as you continue to learn about managing applications with Kubernetes. Keep practicing these steps to solidify your understanding!
