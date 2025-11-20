@@ -50,10 +50,12 @@ If you installed the chart without following the directions in the "Installing H
 
 The commands you need to run are as follows:
 
+```shell
 helm uninstall local-wp (or the name of your release)
 
 kubectl delete pvc data-local-wp-mariadb-0 (when uninstalling the Wordpress chart)
 
+```
 If the chart you have installed created other resources that are not removed when running the helm uninstall command, make sure to clean them up manually!
 
 Installing Helm Charts
