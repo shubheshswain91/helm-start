@@ -38,6 +38,14 @@ Now, take a moment to try implementing the above steps on your own before you pe
    - Apply the pipe operator to chain functions, such as combining `replace` and `lower`.
    - Experiment by switching the order of functions to see how it impacts the results, particularly with cases sensitive to capitalization.
 
+### output
+
+![Image01](assets/03.png)
+
+![Image01](assets/04.png)
+
+![Image01](assets/05.png)
+
 ## Conclusion
 
 To summarize, mastering Go templating in Helm requires a good understanding of the context provided by the dot (`.`), the use of various functions, and how to effectively chain operations using the pipe operator. Each of these elements plays a key role in customizing and managing your Helm charts. Keep practicing, and don't hesitate to explore more advanced features as you grow more comfortable. You're doing great, and we encourage you to continue learning and experimenting! 🎉
