@@ -53,6 +53,11 @@ Here’s a clear step-by-step guide to help you set up your GitHub repository an
    - Go back to the GitHub Pages URL created for your repository.
    - Verify that your `index.yaml` and chart files are accessible via this URL.
 
+### output
+
+![Image01](assets/10.png)
+
+
 ## Conclusion
 
 Fantastic job! You've just learned how to set up a public GitHub repository, enable GitHub Pages, and publish your Helm charts for anyone to access. This is a valuable skill that will help you in sharing your projects in a professional and efficient manner. Keep practicing and exploring more about GitHub and Helm to enhance your development toolkit! 🌟
