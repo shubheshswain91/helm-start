@@ -49,6 +49,14 @@ Give it a shot and see if you can implement these steps before consulting the gu
    kubectl get secrets
    ```
 
+### output
+
+![Image01](assets/21.png)
+
+![Image01](assets/22.png)
+
+![Image01](assets/23.png)
+
 ## Conclusion
 
 In this guide, we tackled how to upgrade Helm releases smoothly using the `helm upgrade` command, without any unnecessary reinstalls. We also learned the significance of managing configurations effectively to get the desired outcomes. Keep practicing these steps and experimenting with different configurations! 🛠️ The more you explore, the more comfortable you'll become with Helm.
