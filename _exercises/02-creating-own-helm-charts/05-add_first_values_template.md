@@ -55,6 +55,14 @@ Ready to give it a shot? Let’s see what you can come up with before looking at
 7. **Test your changes**:
    - Use the Helm template command to regenerate your templates and verify that everything is working as intended.
 
+### output
+
+![Image01](assets/06.png)
+
+![Image01](assets/07.png)
+
+![Image01](assets/08.png)
+
 ## Conclusion
 
 Great job! By following these steps, you’ve successfully defined several key values in your `values.yaml` file and learned how to reference them in your deployment and service templates. Remember, this foundational knowledge is crucial for building more complex configurations in the future. Keep practicing, and don't hesitate to explore more features! 🌟
