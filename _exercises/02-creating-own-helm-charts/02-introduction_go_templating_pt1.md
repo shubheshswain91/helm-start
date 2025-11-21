@@ -73,6 +73,11 @@ Give it a shot! Once you've given it your best effort, feel free to check out th
 
 By this point, you should have a clear understanding of how to use Go Templating with Helm.
 
+### output
+
+![Image01](assets/02.png)
+
+
 ## Conclusion
 
 In this lecture, we explored the fundamentals of Go Templating, from setting up a simple Helm chart to using various features of the templating language. Remember, mastering these concepts will enhance your ability to manage and configure Helm charts efficiently. Keep practicing, and don't hesitate to revisit this material as you continue your learning journey! 🌟
