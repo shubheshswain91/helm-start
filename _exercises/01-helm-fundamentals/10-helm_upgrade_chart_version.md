@@ -35,6 +35,14 @@ Take a moment to try these steps on your own! Once you’ve given it a shot, you
    ```
    helm history [RELEASE_NAME]
    ```
+### output
+
+![Image01](assets/24.png)
+
+![Image01](assets/25.png)
+
+![Image01](assets/26.png)
+
 
 ## Conclusion
 
