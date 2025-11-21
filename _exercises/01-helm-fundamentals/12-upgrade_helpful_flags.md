@@ -45,6 +45,16 @@ Take some time to attempt the implementation on your own before checking out the
 7. **Clean Up Resources**:
    Manually check for any leftover replica sets or persistent volume claims and clean them up as necessary.
 
+### output
+
+![Image01](assets/27.png)
+
+![Image01](assets/28.png)
+
+![Image01](assets/29.png)
+
+![Image01](assets/30.png)
+
 ### Conclusion
 
 In this guide, we learned how to effectively utilize Helm upgrade flags to streamline the deployment process and make it more resilient to failures. By leveraging options like `--atomic` and `--cleanup-on-fail`, you can maintain a clean state in your Kubernetes environment, even when things don't go according to plan. Keep practicing these concepts to enhance your Helm skills!
