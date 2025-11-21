@@ -141,6 +141,9 @@ Take a moment to try implementing these steps on your own before referring to th
     ```bash
     helm uninstall my-nginx
     ```
+### output
+
+![Image01](assets/01.png)
 
 ## Conclusion
 
