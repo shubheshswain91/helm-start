@@ -33,6 +33,16 @@ Here’s a clear step-by-step guide to help you through the process:
 
 Congratulations on getting through your first custom configuration! Remember, this process will help you avoid issues that arise from randomly generated values being used repeatedly. 🎉
 
+### output
+
+![Image01](assets/17.png)
+
+![Image01](assets/18.png)
+
+![Image01](assets/19.png)
+
+![Image01](assets/20.png)
+
 ## Conclusion
 
 In this lecture, we learned how to override default configuration values in the WordPress Helm chart using the CLI. By setting specific parameters like the root and user passwords for MariaDB, we can maintain consistency and ensure smoother deployments. As you continue learning, keep practicing this skill to deepen your understanding of Helm and its value in managing Kubernetes applications.
