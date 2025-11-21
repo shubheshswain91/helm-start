@@ -59,9 +59,6 @@ Ready to give it a shot? Let’s see what you can come up with before looking at
 
 ![Image01](assets/06.png)
 
-![Image01](assets/07.png)
-
-![Image01](assets/08.png)
 
 ## Conclusion
 
