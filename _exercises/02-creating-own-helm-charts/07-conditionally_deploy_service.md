@@ -60,6 +60,10 @@ Take a shot at implementing the solution on your own before checking out the ste
    helm install your-release-name .
    ```
 
+### output
+
+![Image01](assets/07.png)
+
 ## Conclusion
 
 Great job! 💪 We've learned how to conditionally render Kubernetes services based on user-defined values in Helm charts. This gives users flexibility and control over their deployments. Remember, you can use this pattern for other Kubernetes objects, allowing for even more dynamic configurations. Keep practicing, and don't hesitate to explore further!
