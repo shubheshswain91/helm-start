@@ -46,6 +46,10 @@ Take your time to implement these steps yourself before looking at the detailed 
 
 7. **Understand the Go Templates.** If some concepts are unclear, take the time to review online resources or upcoming lectures to fill in those gaps. We will explore Go Templates in much more depth in the upcoming lectures, so don't worry if something is not clear now!
 
+### output
+
+![Image01](assets/13.png)
+
 ## Conclusion
 
 In this exercise, we learned how to efficiently create Helm charts using the `helm create` command. This not only saves time but also helps us create a well-structured deployment. Remember, the auto-generated files are a great resource to familiarize yourself with Kubernetes components and Go Templates. Keep practicing, explore the templates further, and don’t hesitate to dig deeper into any concepts that need clarification. Happy charting! 🎉
