@@ -60,6 +60,12 @@ Here’s a concise guide to help you install NGINX from your Helm repository:
 
 Congratulations on following these steps! 🎉
 
+### output
+
+![Image01](assets/11.png)
+
+![Image01](assets/12.png)
+
 ## Conclusion
 
 You've successfully learned how to install NGINX from your own Helm repository! This process is a fundamental skill in managing applications with Kubernetes, and you've taken a significant step forward. Keep practicing and exploring other features of Helm, such as chart templates and dependencies. There’s always more to learn, and I’m excited to see what you'll accomplish next!
