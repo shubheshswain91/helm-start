@@ -25,6 +25,12 @@ Give it a shot, and see how far you can go before checking the detailed steps be
 6. **Repackage if Necessary**: If you change the version in your `Chart.yaml`, run `helm package` again to create a new versioned package.
 7. **Install from the Archive**: Finally, install your Helm chart using the command `helm install <release-name> <path to tgz file>`.
 
+### output
+
+![Image01](assets/08.png)
+
+![Image01](assets/09.png)
+
 ## Conclusion
 
 Great job on working through the process of packaging and publishing your Helm chart! Remember, the key steps involve confirming your chart’s integrity, packaging it correctly with the right versioning, and then installing from the created archive. It’s a powerful way to share your work! Keep practicing, as the more you work with Helm, the more proficient you’ll become.
