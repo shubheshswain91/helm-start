@@ -39,6 +39,8 @@ Here’s a more detailed process for you to follow as you delve into template fu
 
 This guide should set you on the right path as you explore and implement Helm's templating features.
 
+![Image01](assets/01.png)
+
 ## Conclusion
 
 Today, we covered the fascinating capabilities of Helm's template functions and how to manage pipelines effectively. We learned about various data manipulation techniques and the importance of maintaining proper indentation for valid YAML output. As you continue your journey, practicing these concepts will greatly enhance your understanding of Helm and Go templating. Keep experimenting and exploring—there’s always more to learn! 🚀
